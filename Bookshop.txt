@@ -1,0 +1,15 @@
+Titolo: qui
+Pagine: 10
+Autore: io
+Editore: tu
+**----------**
+Titolo: la
+Pagine: 30
+Autore: me
+Editore: te
+**----------**
+Titolo: lero
+Pagine: 20
+Autore: l'altro
+Editore: ancora
+**----------**
