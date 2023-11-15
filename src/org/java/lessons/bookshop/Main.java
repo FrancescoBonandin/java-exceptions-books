@@ -122,9 +122,3 @@ public class Main {
 }
 
 
-git init
-git add -A
-git commit -m "esercizio completato"
-git branch -M main
-git remote add origin https://github.com/FrancescoBonandin/java-exceptions-books.git
-git push -u origin main
